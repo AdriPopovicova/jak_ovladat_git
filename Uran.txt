@@ -1,1 +1,2 @@
-﻿Uran
+﻿Uran -  je jedna z vestich planet slunecni soustavy
+Uran.txt
